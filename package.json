@@ -1,6 +1,6 @@
 {
   "name": "electron-hbs",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "a little package for use handlebars on electron",
   "main": "index.js",
   "scripts": {
